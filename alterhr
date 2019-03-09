@@ -1,0 +1,28 @@
+Error starting at line : 1 in command -
+alter user hr identified by oracle account unlock
+Error report -
+SQL Error: ORA-01109: database not open
+01109. 00000 -  "database not open"
+*Cause:    A command was attempted that requires the database to be open.
+*Action:   Open the database and try the command again
+Error starting at line : 1 in command -
+alter user hr identified by oracle account unlock
+Error report -
+SQL Error: ORA-01109: database not open
+01109. 00000 -  "database not open"
+*Cause:    A command was attempted that requires the database to be open.
+*Action:   Open the database and try the command again
+Error starting at line : 1 in command -
+alter user hr identified by oracle account unlock
+Error report -
+SQL Error: ORA-01109: database not open
+01109. 00000 -  "database not open"
+*Cause:    A command was attempted that requires the database to be open.
+*Action:   Open the database and try the command again
+Error starting at line : 1 in command -
+alter user hr identified by oracle account unlock
+Error report -
+SQL Error: ORA-01109: database not open
+01109. 00000 -  "database not open"
+*Cause:    A command was attempted that requires the database to be open.
+*Action:   Open the database and try the command again
